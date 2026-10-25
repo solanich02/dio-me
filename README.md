@@ -37,7 +37,7 @@ Retorno: Usamos a instrução return para enviar o resultado final de volta.]
 ![Print da pergunta 2](print-pergunta-2.png)
 
 ## 🗺️ Materiais gerados
-- [Mapa mental](mapa-mental.png)
+- [Mapa mental](<img width="3924" height="3537" alt="mapa-mental png" src="https://github.com/user-attachments/assets/6926a8cf-49d3-4f0d-a19f-8ae9e4d3180a" />)
 - [Slides em PDF](slides.pdf)
 
 ## 🔗 Link do notebook
