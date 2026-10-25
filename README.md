@@ -30,15 +30,10 @@ Retorno: Usamos a instrução return para enviar o resultado final de volta.]
 
 ![Print da pergunta 1](<img width="769" height="260" alt="print-pergunta-1 png" src="https://github.com/user-attachments/assets/b02b7d79-ff3e-438d-a30c-2ec55fd6e1d5" />)
 
-### Pergunta 2: [sua pergunta]
-**Resposta (resumo):** [o que ele respondeu]
-**Fonte citada:** [de qual fonte veio]
-
-![Print da pergunta 2](print-pergunta-2.png)
 
 ## 🗺️ Materiais gerados
 - [Mapa mental](<img width="3924" height="3537" alt="mapa-mental png" src="https://github.com/user-attachments/assets/6926a8cf-49d3-4f0d-a19f-8ae9e4d3180a" />)
-- [Slides em PDF](slides.pdf)
+- [Slides em PDF]([slides.pdf.pdf](https://github.com/user-attachments/files/33940436/slides.pdf.pdf))
 
 ## 🔗 Link do notebook
-[Cole aqui o link compartilhado]
+[[Cole aqui o link compartilhado](https://notebook.google.com/notebook/9b416226-c8d0-4977-b9c0-f94e479ea941)]
