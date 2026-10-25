@@ -28,7 +28,7 @@ Condicional: Com if, elif e else, verificamos qual é o candidato do voto atual 
 Retorno: Usamos a instrução return para enviar o resultado final de volta.]
 **Fonte citada:** [https://do1.dr-chuck.com/pythonlearn/PT_br/pyt]
 
-![Print da pergunta 1](print-pergunta-1.png)
+![Print da pergunta 1](<img width="769" height="260" alt="print-pergunta-1 png" src="https://github.com/user-attachments/assets/b02b7d79-ff3e-438d-a30c-2ec55fd6e1d5" />)
 
 ### Pergunta 2: [sua pergunta]
 **Resposta (resumo):** [o que ele respondeu]
