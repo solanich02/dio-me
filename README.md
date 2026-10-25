@@ -1,4 +1,3 @@
-README.md
 # 🧠 Segundo Cérebro: Programação em Python
 
 ## 🎯 Objetivo
