@@ -32,8 +32,8 @@ Retorno: Usamos a instrução return para enviar o resultado final de volta.]
 
 
 ## 🗺️ Materiais gerados
-- [Mapa mental](<img width="3924" height="3537" alt="mapa-mental png" src="https://github.com/user-attachments/assets/6926a8cf-49d3-4f0d-a19f-8ae9e4d3180a" />)
-- [Slides em PDF]([slides.pdf.pdf](https://github.com/user-attachments/files/33940436/slides.pdf.pdf))
+- [Mapa mental] (<img width="3924" height="3537" alt="mapa-mental png" src="https://github.com/user-attachments/assets/6926a8cf-49d3-4f0d-a19f-8ae9e4d3180a" />)
+- [Slides em PDF] ([slides.pdf.pdf](https://github.com/user-attachments/files/33940436/slides.pdf.pdf))
 
 ## 🔗 Link do notebook
 [[Cole aqui o link compartilhado](https://notebook.google.com/notebook/9b416226-c8d0-4977-b9c0-f94e479ea941)]
